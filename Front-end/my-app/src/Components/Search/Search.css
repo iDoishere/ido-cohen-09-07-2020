@@ -1,0 +1,22 @@
+
+
+.title {
+    
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: -0.39px;
+    text-align: right;
+    color: #00b074;
+}
+.mange-task{
+    text-align: center;
+    margin:2%;
+}
+.input-div{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,42 @@
+.App-header {
+   display: flex;
+    height: 60px;
+    box-shadow: 0px 6px 20px 0 rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    align-items: center;
+    
+     
+  }
+ .header-section-1{
+  display: flex;
+  justify-content: space-evenly;
+  width: 40%;
+  align-items: center;
+ }
+ .img-logo{
+   width: 30%;
+ }
+.main-nav{
+  width: 50%;
+    display: flex;
+    justify-content: center;
+}
+ .navbar-off  {
+ width: 100%;
+  background: transparent;
+  transition: all 3s;
+  
+ }
+ ul {
+  display: flex;
+  justify-content: space-evenly;
+   list-style: none;
+   align-items: center;
+ }
+ a{
+  font-family: Arial;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: -0.1px;
+  color: #707070;
+ }
